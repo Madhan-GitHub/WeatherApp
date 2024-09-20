@@ -20,7 +20,7 @@ A simple iOS weather application built using SwiftUI, allowing users to check th
 1. **Clone this repository**:
 
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/Madhan-GitHub/weather-app.git
     ```
 
 2. **Open the project**:
